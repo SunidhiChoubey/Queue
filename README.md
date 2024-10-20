@@ -1,6 +1,6 @@
 # Queue
 # Experiment- 19
-# Aim-
+# Aim- To study and implement queue operations.
 # Theory- 
 Queue is a one-dimensional form of data that uses First In First Out (FIFO) technique. In a queue, elements are inserted at the rear (back) and deleted from the front. This makes sure that the first element added, is the first element removed, just like a queue of people at a ticket counter
 Stack operations are:
